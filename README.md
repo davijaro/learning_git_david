@@ -1,2 +1,2 @@
 # learning_git_david
-Test analysi from the python course
+Test analysis from the python course
